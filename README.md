@@ -11,3 +11,5 @@ Included in the I2C examples are drivers for interacting with two sensors - the 
 ## License
 
 Copyright © 2016 [Synapse Wireless](http://www.synapse-wireless.com/), licensed under the [Apache License v2.0](LICENSE.md).
+
+<!-- meta-tags: vvv-tcs34725, vvv-zx, vvv-atmega, vvv-i2c, vvv-python, vvv-c, vvv-snappy, vvv-example -->
